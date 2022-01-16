@@ -1,6 +1,7 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
     margin: 20px;
+    height: 100%
   }
   
   ol, ul {
@@ -53,4 +54,9 @@ body {
   
   .reset{
     margin-bottom: 20px
+  }
+
+  .footer {
+    margin-left: 30px;
+    margin-top: 20px;
   }
